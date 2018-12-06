@@ -3,8 +3,7 @@
 Author: D. B.
 */
 
-exec('ln -s /data/nook/ .');
-exec('ln -s /data/lab/ .');
+exec('ln -s /data/web/ ./web');
 
 echo 'meep!';
 
